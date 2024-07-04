@@ -60,7 +60,7 @@ class Calculator
 
                 echo "Transport: {$vehicle->getName()} - Cost: {$cost} грн\n";
             }else{
-                echo "This transport: {$vehicle->getName()} is not suitable for the given input parameters";
+                echo "This transport: {$vehicle->getName()} is not suitable for the given input parameters\n";
             }
         }
     }

@@ -14,7 +14,7 @@ $calculator->addVehicle(new Bus());
 $calculator->addVehicle(new Car());
 $calculator->addVehicle(new Motorcycle());
 
-$passengers = 5;
+$passengers = 4;
 $cargoWeight = 20;
 $distance = 100;
 
