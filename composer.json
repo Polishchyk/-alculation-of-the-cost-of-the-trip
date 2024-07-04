@@ -1,0 +1,20 @@
+{
+	"name": "calculate/distance",
+    "description": "A console program for calculating the cost of a trip on various types of transport for a given distance",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oleksandr Polishchuk",
+            "email": "polishchyk.a.v@gmail.com",
+			"homepage": "https://www.linkedin.com/in/oleksandr-polishchuk-4web/",
+            "role": "PHP Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
